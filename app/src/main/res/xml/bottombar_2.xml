@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/search"
+        title="@string/tab_search"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_search" />
+</tabs>

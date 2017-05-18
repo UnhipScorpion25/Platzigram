@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="don_have_account">¿No tienes cuenta?, </string>
+    <string name="create_here">crea una aqui</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_Password">Confirmar contraseña</string>
+    <string name="text_button_createaccount">Unete</string>
+    <string name="toolbar_title_createaccount">Crea tu cuenta</string>
+    <string name="username_card">Uriel Ramirez</string>
+    <string name="firstWord_card">Hace</string>
+    <string name="timecard_card">4 dias</string>
+    <string name="likenumber_card">10 Me Gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secondword_detail">Me gusta</string>
+    <string name="titleimagedetail">\"Todo copas en la playa\"</string>
+    <string name="lorem"><![CDATA[Selfies despertaron la salvia blog de monopatín. Calle siguiente nivel de arte máquina de escribir pabst cerveza artesanal Thundercats, confeccionados: la semiótica marfa meditación. hacha de moda tacos de blogs empuje, planta de aire meggings TBH tofu PBR & B pantalones cortos de mezclilla vexilólogo veganos. Schlitz capucha tofu, suculentas Jianbing cambray comercio directo en vivo de punta barro amasado v profunda. vexilólogo affogato.]]></string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+</resources>
